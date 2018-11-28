@@ -1,0 +1,23 @@
+{
+  "name": "bookfinderwebapp",
+  "version": "1.0.0",
+  "description": "A Book finder Web App",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prashant-123/BookFinderWebApp.git"
+  },
+  "author": "Prashant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prashant-123/BookFinderWebApp/issues"
+  },
+  "homepage": "https://github.com/Prashant-123/BookFinderWebApp#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
